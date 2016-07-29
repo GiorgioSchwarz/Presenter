@@ -1,6 +1,6 @@
 <?php
 
-namespace Moln\Presenter;
+namespace MolnApps\Presenter;
 
 class HtmlPresenterTest extends \PHPUnit_Framework_TestCase
 {

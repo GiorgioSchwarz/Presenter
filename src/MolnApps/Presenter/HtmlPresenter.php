@@ -1,6 +1,6 @@
 <?php
 
-namespace Moln\Presenter;
+namespace MolnApps\Presenter;
 
 class HtmlPresenter implements \Iterator
 {

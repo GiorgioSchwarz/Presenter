@@ -1,5 +1,5 @@
 {
-    "name": "moln/presenter",
+    "name": "molnapps/presenter",
     "description": "Escapes objects for html presentation",
     "authors": [
         {
@@ -14,7 +14,7 @@
     },
     "autoload": {
         "psr-4": {
-            "Moln\\": "src/Moln/"
+            "MolnApps\\": "src/MolnApps/"
         }
     }
 }
